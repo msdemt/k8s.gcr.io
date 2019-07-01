@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/coredns:1.3.1
+FROM gcr.io/fluentd-elasticsearch/elasticsearch:v6.6.1
