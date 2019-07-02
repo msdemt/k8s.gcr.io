@@ -1,1 +1,1 @@
-FROM docker.elastic.co/kibana/kibana-oss:6.6.1
+FROM gcr.io/kubernetes-helm/tiller:v2.14.1
