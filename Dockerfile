@@ -1,1 +1,1 @@
-FROM docker.elastic.co/elasticsearch/elasticsearch:7.3.0
+FROM docker.elastic.co/beats/filebeat:7.3.0
