@@ -1,1 +1,1 @@
-FROM docker.elastic.co/beats/metricbeat:7.3.0
+FROM quay.io/coreos/kube-state-metrics:v1.6.0
