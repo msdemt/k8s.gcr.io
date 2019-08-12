@@ -1,1 +1,1 @@
-FROM docker.elastic.co/kibana/kibana:7.3.0
+FROM docker.elastic.co/beats/metricbeat:7.3.0
