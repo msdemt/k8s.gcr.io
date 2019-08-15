@@ -1,1 +1,1 @@
-FROM quay.io/coreos/kube-state-metrics:v1.6.0
+FROM k8s.gcr.io/kube-scheduler:v1.15.0
