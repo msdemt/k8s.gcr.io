@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/cluster-proportional-autoscaler-amd64:1.6.0
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/queue@sha256:9ee46b5f0bd5d3a3dc7af319dafb79e88e18092bd1af6ff835b762fc12ba642a
